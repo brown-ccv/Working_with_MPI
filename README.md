@@ -11,7 +11,7 @@ This workshop will cover the basics of MPI and running your MPI codes on Oscar
 1. Most common MPI calls
 1. MPI in interactive session
 
-You can view the slides for this workshop [here] (https://docs.google.com/presentation/d/1MsEdXUKpmXbFHGHFU3_CszNyAS-Ov6sZXhv1ACCBM2Q/edit?usp=sharing)
+You can view the slides for this workshop [here](https://docs.google.com/presentation/d/1MsEdXUKpmXbFHGHFU3_CszNyAS-Ov6sZXhv1ACCBM2Q/edit?usp=sharing)
 
 ## Downloading this workshop
 
