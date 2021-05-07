@@ -1,0 +1,4 @@
+*.out
+*.err
+hello_world
+send_data
